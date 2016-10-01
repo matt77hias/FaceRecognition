@@ -171,10 +171,6 @@ def pca(X, nb_components=0):
     #Hermitian (or symmetric) matrix.
     eigenvalues, eigenvectors = np.linalg.eigh(S)
     
-    #And about the negative eigenvalues, it is just a matter of eigh.
-    #As eigenvalues shows the variance in a direction, we care about absolute
-    #value but if we change a sign, we also have to change the "direcction" (eigenvector).
-    #You can make this multiplying negative eigenvalues and their corresponding eigenvectors with -1.0
     s = np.where(eigenvalues < 0)
     eigenvalues[s] = eigenvalues[s] * -1.0
     eigenvectors[:,s] = eigenvectors[:,s] * -1.0
