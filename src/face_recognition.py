@@ -3,9 +3,6 @@
 Face recognition.
 @author     Matthias Moulin
 @version    1.0
-
-PS.: note that http://stackoverflow.com/questions/22885100/principal-component-analysis-in-python-analytical-mistake/22885447?noredirect=1#comment34945020_22885447
-is my account and my question and that the answer is based on my code (which was only available for some hours via dropbox)
 '''
 
 import cv2
