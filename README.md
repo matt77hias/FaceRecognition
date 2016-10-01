@@ -10,10 +10,10 @@ Use
 
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/a0.png"></p>
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/a1.png"></p>
-Arnold images: image space -> reduced Arnold/Barack space -> image space
+<p align="center">Arnold images: image space -> reduced Arnold/Barack space -> image space</p>
 
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/b0.png"></p>
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/b1.png"></p>
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/b2.png"></p>
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/b3.png"></p>
-Barack images: image space -> reduced Arnold/Barack space -> image space
+<p align="center">Barack images: image space -> reduced Arnold/Barack space -> image space</p>
