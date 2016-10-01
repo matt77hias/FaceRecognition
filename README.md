@@ -6,10 +6,14 @@ Course Computer Vision: Face Recognition
 Use
 --------
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/pca arnold.png" width="430"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/pca barack.png" width="430"></p>
+<p align="center">PCA Arnold space - PCA Barack space</p>
 
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/a0.png"></p>
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/a1.png"></p>
+Arnold images: image space -> reduced Arnold/Barack space -> image space
+
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/b0.png"></p>
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/b1.png"></p>
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/b2.png"></p>
 <p align="center"><img src="https://github.com/matt77hias/FaceRecognition/blob/master/res/b3.png"></p>
+Barack images: image space -> reduced Arnold/Barack space -> image space
